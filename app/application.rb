@@ -1,2 +1,5 @@
 class Application 
+  
+  def 
+  
 end 
